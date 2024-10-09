@@ -62,7 +62,7 @@ const LayoutHeader = (props: any) => {
 				<AssemblySize />
 				<Theme />
 				<Fullscreen />
-				<span className="username">{userInfo.userName || "技术派"}</span>
+				<span className="username">{userInfo.userName || "智汇"}</span>
 				<AvatarIcon userInfo={userInfo} />
 			</div>
 		</Header>

@@ -17,7 +17,7 @@ const LayoutFooter = (props: any) => {
 			{!themeConfig.footer && (
 				<div className="footer">
 					<a href={baseDomain} target="_blank" rel="noreferrer">
-						{getYear()} © paicoding-admin By 技术派团队.
+						{getYear()} © bearcoding-admin By 编程小熊.
 					</a>
 				</div>
 			)}
